@@ -1,0 +1,23 @@
+{
+  "name": "epicbrief-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hubspot/api-client": "^8.6.0",
+    "axios": "^1.3.4",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "firebase": "^9.17.1",
+    "node-cache": "^5.1.2",
+    "open": "^8.4.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
